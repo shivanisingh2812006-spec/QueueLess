@@ -7,7 +7,7 @@ import {
 } from "lucide-react";
 import "./App.css";
 
-const API = "http://localhost:5000/api/tokens";
+const API = "https://queueless-2iir.onrender.com/api/tokens";
 
 const departments = [
   "Accounts Office",
